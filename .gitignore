@@ -1,0 +1,7 @@
+db/
+dbd/
+bin/
+lib/
+O.*/
+envPaths
+*.swp*
