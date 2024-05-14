@@ -1,6 +1,0 @@
-file "caen-fast-1040-400.template"
-{
-pattern {P			R		PORT	RANGE}
-		{ID09-PS-   VL:     VLC    2}
-}
-

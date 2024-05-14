@@ -1,8 +1,0 @@
-file "caen-easy-1020.template"
-{
-pattern {P			R	   PORT	 RANGE}
-		{ID09-PS-	HL     HLC	 5}
-		{ID09-PS-	VS     VSC	 10}
-		{ID09-PS-	HS     HSC   2}
-		{ID09-PS-	SQ     SQC   10}
-}

@@ -10,7 +10,8 @@ include $(TOP)/configure/CONFIG
 #----------------------------------------------------
 # Create and install (or just install) into <top>/db
 # databases, templates, substitutions like this
-#DB += xxx.db
+DB += caen-easy-1020.template
+DB += caen-fast-1040-400.template
 
 #----------------------------------------------------
 # If <anyname>.db template is not named <anyname>*.template add
